@@ -16,6 +16,8 @@ A notebook containing code to help with reorganizing your content in order to op
 * By using frequently asked questions by your users, you can test whether BERT can extract the best answers from your page.
 * If you run the script on your page and a competing page, you can compare the scores and reorganize the content on your page to optimize it for BERT and gain a competitive edge.
 
+The [notebook](https://colab.research.google.com/drive/1CeyCWuFHdcUoYD6eahhJzZBUVnrbEi7M?authuser=3#scrollTo=ExO6QTfYVS-4) 
+
 
 
 
