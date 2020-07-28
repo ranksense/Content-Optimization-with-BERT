@@ -1,5 +1,5 @@
 # Content-Optimization-with-BERT
-A notebook containing code to help with reorganizing your content in order to be compatible with **BERT** for **better SEO results**.
+A notebook containing code to help with reorganizing your content in order to optimize it for **BERT** to achieve **better SEO results**.
 
 ## The Purpose
 * The purpose of this code is to test **Bidirectional Encoder Representations of Transformers (BERT)** in order to understand how BERT answers questions given context.
